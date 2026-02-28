@@ -1,0 +1,16 @@
+# Laptop-Based Eye Drowsiness Detection System - Requirements
+# Python 3.10+
+
+# Computer Vision
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Audio/Sound
+pygame>=2.5.0
+
+# Optional: Utilities
+imutils>=0.5.4
