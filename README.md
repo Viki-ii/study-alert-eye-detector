@@ -1,4 +1,4 @@
-# 👁️ Laptop-Based Eye Drowsiness Detection and Alert System
+# 👁️ Study Alert Eye Detector
 
 A real-time drowsiness detection system that monitors user's eyes using a laptop webcam and triggers an alarm when signs of drowsiness are detected. Perfect for students, drivers in simulation training, and anyone who needs to stay alert while working on a computer.
 
